@@ -5,7 +5,7 @@
 
 # Идеи и задачи для хакатона
 
-* Идеи для хакатона собраны по ссылке - 
+* Идеи для хакатона собраны по ссылке - https://github.com/infoculture/data-audit-gov-hackathon-2/issues
 * Идеи проектов, собранные в рамках других конкурсов для вдохновения:
 https://github.com/infoculture/datatasks/issues
 
